@@ -1,0 +1,1 @@
+export default function App(){return (<h1>App cargada. Inserta aquí tu código completo del Page.</h1>);}
